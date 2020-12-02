@@ -13,6 +13,9 @@ namespace Zadatak_4._1._2___Ispis_Brojeva
             Console.WriteLine(2);
             Console.WriteLine(3);
             Console.ReadLine();
-        }
+        } 
     }
 }
+
+
+
